@@ -4,24 +4,7 @@ Welcome to the CODSOFT Internship Projects repository! This document outlines th
 
 ---
 
-##  Task 1 - "Landing Page"
-
-**Objective:**
-Create a captivating and user-friendly landing page using HTML and CSS. The landing page serves as the gateway to the website, leaving a lasting impression on visitors.
-
-### Features:
-- Visually appealing design with engaging elements.
-- Responsive layout to ensure compatibility across devices.
-- Clean and intuitive navigation.
-
-### Skills Demonstrated:
-- Proficiency in HTML and CSS.
-- Understanding of responsive design principles.
-- Creativity in web design.
-
----
-
-##  Task 2 - "Portfolio Website"
+##  Task 1 - "Portfolio Website"
 
 **Objective:**
 Build a personal portfolio website to showcase skills, projects, and achievements as a web developer. The portfolio reflects professional identity and stands out with unique features.
@@ -36,6 +19,23 @@ Build a personal portfolio website to showcase skills, projects, and achievement
 - Showcasing personal projects effectively.
 - Focus on user experience and branding.
 
+---
+
+
+##  Task 2 - "Landing Page"
+
+**Objective:**
+Create a captivating and user-friendly landing page using HTML and CSS. The landing page serves as the gateway to the website, leaving a lasting impression on visitors.
+
+### Features:
+- Visually appealing design with engaging elements.
+- Responsive layout to ensure compatibility across devices.
+- Clean and intuitive navigation.
+
+### Skills Demonstrated:
+- Proficiency in HTML and CSS.
+- Understanding of responsive design principles.
+- Creativity in web design.
 ---
 
 ##  Task 3 - "Calculator Website"
