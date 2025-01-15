@@ -1,64 +1,48 @@
-# CODSOFT 
+# Anushka's Portfolio
 
-Welcome to the CODSOFT Internship Projects repository! This document outlines the tasks completed during the internship program. Each task was designed to enhance technical skills and creativity in web development.
+Welcome to my personal portfolio website! This project showcases my work, skills, and achievements in the tech field. It includes various coding projects, my contributions to open-source, and my roles in different tech communities.
 
----
+## Table of Contents
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Roles & Responsibilities](#roles-responsibilities)
+- [How to View](#how-to-view)
+- [Resume](#resume)
+- [License](#license)
 
-##  Task 1 - "Portfolio Website"
+## About Me
 
-**Objective:**
-Build a personal portfolio website to showcase skills, projects, and achievements as a web developer. The portfolio reflects professional identity and stands out with unique features.
+I am Anushka, a passionate tech enthusiast and full-stack developer with a focus on web development and open-source contributions. Currently pursuing my undergraduate studies in Computer Science at VIT Bhopal, I aim to develop innovative solutions and empower others through technology.
 
-### Features:
-- Sections for about, skills, projects, and contact information.
-- Interactive elements to enhance user engagement.
-- Customizable and aesthetically pleasing design.
+Notable achievements include:
+- **Hacktoberfest 2024** participant.
+- **GirlScript Summer of Code** (GSSoC) contributor.
+- Co-lead of **Notion Community Club** and core member of **AI Club** at VIT Bhopal.
 
-### Skills Demonstrated:
-- HTML and CSS for layout and styling.
-- Showcasing personal projects effectively.
-- Focus on user experience and branding.
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Version Control:** Git, GitHub
 
----
+## Roles & Responsibilities
+- **Co-Lead, Notion Community Club:** Oversee community events and technical resources.
+- **Core Member, AI Club:** Collaborate on AI projects and organize workshops.
+- **Hacktoberfest 2024 Participant:** Contributed to open-source projects with multiple pull requests.
+- **GSSoC Contributor:** Worked on various open-source repositories and collaborated with global teams.
 
+## How to View
+You can view my portfolio live on GitHub Pages by clicking the link below:
+- [Anushka's Portfolio](https://anushkaa-dubey.github.io/portfolio/)
 
-##  Task 2 - "Landing Page"
+## Resume
+You can download my resume in PDF format here:
+- [Download Resume](resume.pdf)
 
-**Objective:**
-Create a captivating and user-friendly landing page using HTML and CSS. The landing page serves as the gateway to the website, leaving a lasting impression on visitors.
-
-### Features:
-- Visually appealing design with engaging elements.
-- Responsive layout to ensure compatibility across devices.
-- Clean and intuitive navigation.
-
-### Skills Demonstrated:
-- Proficiency in HTML and CSS.
-- Understanding of responsive design principles.
-- Creativity in web design.
----
-
-##  Task 3 - "Calculator Website"
-
-**Objective:**
-Develop a fully functional calculator website using HTML, CSS, and JavaScript. The calculator should handle basic arithmetic operations and more advanced calculations.
-
-### Features:
-- Intuitive user interface for easy input.
-- Functional buttons for arithmetic operations (+, -, *, /).
-- Real-time calculation display.
-
-### Skills Demonstrated:
-- JavaScript for implementing logic and interactivity.
-- HTML and CSS for structure and styling.
-- Problem-solving and debugging.
+## License
+This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-### 💡 Key Takeaways:
-- Strengthened web development skills by working on practical projects.
-- Gained experience in creating responsive, interactive, and user-friendly websites.
-- Built a foundation for showcasing professional work through a portfolio.
-
-Feel free to explore each task folder for code, documentation, and live demos!
+Feel free to explore, contribute, and connect with me!
 
